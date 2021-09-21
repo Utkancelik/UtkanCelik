@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Utkancelik
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on developing mobile games for both Android and IOS
 - 📫 How to reach me utkan_celik@hotmail.com
 
 <!---
