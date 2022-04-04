@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Utkancelik
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
-- 📫 How to reach me utkan_celik@hotmail.com
+- 📫 How to reach me utkancelik354@gmail.com
 
 <!---
 Utkancelik/Utkancelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
